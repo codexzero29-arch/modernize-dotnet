@@ -356,3 +356,4 @@ Flow mode works identically to the VS Code experience (see **Flow Mode** section
 - If `complete_task` fails, retry with the same arguments (the error message will instruct you)
 - If scenario not found, ask user to clarify their upgrade goal
 - If tools return unexpected state, call `get_state()` to re-sync
+- 
